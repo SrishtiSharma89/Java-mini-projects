@@ -1,5 +1,3 @@
-package Lecture60to71;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
