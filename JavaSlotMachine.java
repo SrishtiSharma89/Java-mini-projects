@@ -1,4 +1,3 @@
-package Lecture30to40;
 import java.util.Random;
 import java.util.Scanner;
 //If you got matching emojis you are going to win
