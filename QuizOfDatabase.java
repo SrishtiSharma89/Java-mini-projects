@@ -1,5 +1,3 @@
-package Lecture30to40;
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
