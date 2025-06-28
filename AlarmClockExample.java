@@ -1,5 +1,3 @@
-package Lecture60to71;
-
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
