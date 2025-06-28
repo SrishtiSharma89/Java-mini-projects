@@ -1,4 +1,3 @@
-package Lecture10to20;
 import java.util.Scanner;
 public class CalculatorProgram {
     public static void main(String[] args) {
