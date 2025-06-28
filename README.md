@@ -18,7 +18,7 @@ This repository contains a collection of small Java projects developed for learn
 | 🧠 Quiz Of Database        | A small quiz based on database concepts. |
 | 🪨📄✂️ Rock Paper Scissors  | Classic RPS game with user vs computer logic. |
 | 🎵 Music Player            | Plays local audio files using Java sound APIs. |
-| ⏰ Alarm Clock             | Set a custom alarm time with notification. |
+| ⏰ Alarm Clock             | Set a custom alarm time with music/ alarm sound of own choice. |
 | ⌛ Countdown Timer         | Countdown from a user-defined time. |
 | 🧩 Hangman Game            | Classic word-guessing game with words from an external file (`HangmanWords.txt`). |
 
