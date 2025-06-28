@@ -1,4 +1,3 @@
-package Lecture20to30;
 import java.util.Scanner;
 public class BankingProgram {
     public static void main(String[] args) {
