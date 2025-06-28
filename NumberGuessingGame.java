@@ -1,4 +1,3 @@
-package Lecture20to30;
 import java.util.*;
 public class NumberGuessingGame {
     public static void main(String[] args) {
